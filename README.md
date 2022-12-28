@@ -12,5 +12,9 @@ Test description
 
 Sample website with plenty of files for demos
 
-###Copyright
+## How to Contribute
+
+Please fork this repository and then issue Pull Request for review.
+
+### Copyright
 2022 Git.Training
